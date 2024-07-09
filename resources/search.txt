@@ -1,0 +1,3 @@
+Indexes: D1,D2
+SearchConditions: D1=A AND D2=Z
+AggregateFunctions: Fact1=sum,Fact2=avg
